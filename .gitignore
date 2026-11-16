@@ -1,0 +1,47 @@
+# Local working policy, backups and caches are not coursework deliverables.
+/AGENTS.md
+/backup/
+*.blend[0-9]*
+/blendcache*/
+__pycache__/
+*.py[cod]
+/.venv/
+/.vscode/
+/.idea/
+/colab/
+/tools/
+
+# Publish selected source/evidence, not the multi-gigabyte render sequence.
+/renders/*
+!/renders/stills/
+/renders/stills/*
+!/renders/stills/no_human_check/
+!/renders/stills/time_pass_check/
+!/renders/stills/shovel_check/
+/renders/stills/no_human_check/*
+!/renders/stills/no_human_check/continuous.py
+!/renders/stills/no_human_check/old_shovel.py
+!/renders/stills/no_human_check/look_pass.py
+!/renders/stills/no_human_check/continuous_burial_and_reopening.mp4
+!/renders/stills/no_human_check/shovel_fill_and_dig.mp4
+/renders/stills/time_pass_check/*
+!/renders/stills/time_pass_check/time_pass.py
+!/renders/stills/time_pass_check/make_atlas.py
+!/renders/stills/time_pass_check/tc13_year_atlas.png
+!/renders/stills/time_pass_check/solar_curve.json
+!/renders/stills/time_pass_check/day_night_shot12_realspeed.mp4
+!/renders/stills/time_pass_check/3_day_night_one_cycle_2540_2700.jpg
+!/renders/stills/time_pass_check/5_years_and_nights.jpg
+!/renders/stills/time_pass_check/6_final_quality_from_saved_file.jpg
+!/renders/stills/time_pass_check/7_light_waves_chart.png
+/renders/stills/shovel_check/*
+!/renders/stills/shovel_check/shovel_shape.py
+!/renders/stills/shovel_check/2_shovel_closeups_after.jpg
+!/renders/stills/shovel_check/3_shovel_in_film_frames.jpg
+
+# Generated validation/render outputs stay local unless explicitly selected.
+/verification_output/
+*.partial
+*.tmp
+.DS_Store
+Thumbs.db

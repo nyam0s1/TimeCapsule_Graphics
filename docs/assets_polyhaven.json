@@ -1,0 +1,123 @@
+[
+  {
+    "slug": "kloofendal_48d_partly_cloudy_puresky",
+    "kind": "hdri",
+    "file": "kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+    "resolution": "2k",
+    "bytes": 5451493,
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloofendal_48d_partly_cloudy_puresky_2k.hdr",
+    "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+    "license": "CC0",
+    "sha256": "5244534e9cf5b606f2ff513aa00ddb161b0a4826ffd88a0d3bd03ac29247d198"
+  },
+  {
+    "slug": "overcast_soil_puresky",
+    "kind": "hdri",
+    "file": "overcast_soil_puresky_2k.hdr",
+    "resolution": "2k",
+    "bytes": 4568000,
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/overcast_soil_puresky_2k.hdr",
+    "source": "https://polyhaven.com/a/overcast_soil_puresky",
+    "license": "CC0",
+    "sha256": "5414e1ac0c35e451d28595b2a2cba05e2ca301fdeb755b0a469408443093dafc"
+  },
+  {
+    "slug": "bark_brown_02",
+    "kind": "Diffuse",
+    "file": "bark_brown_02_diff_2k.jpg",
+    "resolution": "2k",
+    "bytes": 2356592,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_diff_2k.jpg",
+    "source": "https://polyhaven.com/a/bark_brown_02",
+    "license": "CC0",
+    "sha256": "285051e34826ace29f4ab438ad35cc1201b2aae0a6157a5f3c0bf6667bbc539e"
+  },
+  {
+    "slug": "bark_brown_02",
+    "kind": "Rough",
+    "file": "bark_brown_02_rough_2k.jpg",
+    "resolution": "2k",
+    "bytes": 1236654,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_rough_2k.jpg",
+    "source": "https://polyhaven.com/a/bark_brown_02",
+    "license": "CC0",
+    "sha256": "adafcab150c1ca99150c77198329e251437dc00fa1f66019f75624366926996e"
+  },
+  {
+    "slug": "bark_brown_02",
+    "kind": "Bump",
+    "file": "bark_brown_02_bump_2k.jpg",
+    "resolution": "2k",
+    "bytes": 2063024,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/bark_brown_02/bark_brown_02_bump_2k.jpg",
+    "source": "https://polyhaven.com/a/bark_brown_02",
+    "license": "CC0",
+    "sha256": "94d6c91681c7a3e831d14fbe79cab46c6a0e0f4f36b1398e531d1cfaddfa25e6"
+  },
+  {
+    "slug": "dirt",
+    "kind": "Diffuse",
+    "file": "dirt_diff_2k.jpg",
+    "resolution": "2k",
+    "bytes": 3053062,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dirt/dirt_diff_2k.jpg",
+    "source": "https://polyhaven.com/a/dirt",
+    "license": "CC0",
+    "sha256": "126d3e4886cc94b494ba609ddc323a77ff0362a1b156c3750d5d2a0a0ead02b8"
+  },
+  {
+    "slug": "dirt",
+    "kind": "Rough",
+    "file": "dirt_rough_2k.jpg",
+    "resolution": "2k",
+    "bytes": 964887,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dirt/dirt_rough_2k.jpg",
+    "source": "https://polyhaven.com/a/dirt",
+    "license": "CC0",
+    "sha256": "a17048230e1a86fc874b381360f6a821df1f6b0174ca7f85a59596c4290080fa"
+  },
+  {
+    "slug": "dirt",
+    "kind": "nor_gl",
+    "file": "dirt_nor_gl_2k.jpg",
+    "resolution": "2k",
+    "bytes": 4914156,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dirt/dirt_nor_gl_2k.jpg",
+    "source": "https://polyhaven.com/a/dirt",
+    "license": "CC0",
+    "sha256": "ff629fce04c5d6d581cfcb604ea85df6b726798e60d982fd5484c60cddcccd88"
+  },
+  {
+    "slug": "plastered_wall_04",
+    "kind": "Diffuse",
+    "file": "plastered_wall_04_diff_2k.jpg",
+    "resolution": "2k",
+    "bytes": 1465312,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/plastered_wall_04/plastered_wall_04_diff_2k.jpg",
+    "source": "https://polyhaven.com/a/plastered_wall_04",
+    "license": "CC0",
+    "sha256": "aaf0e693291d51d13531480625a942f950fed23f6b1d1008ee0e91f2a23a7b1e"
+  },
+  {
+    "slug": "plastered_wall_04",
+    "kind": "Rough",
+    "file": "plastered_wall_04_rough_2k.jpg",
+    "resolution": "2k",
+    "bytes": 1236406,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/plastered_wall_04/plastered_wall_04_rough_2k.jpg",
+    "source": "https://polyhaven.com/a/plastered_wall_04",
+    "license": "CC0",
+    "sha256": "37302048eb2e60be2a73a7f803965097681e652b80b93d6d701cfc7fabc1e0a7"
+  },
+  {
+    "slug": "plastered_wall_04",
+    "kind": "nor_gl",
+    "file": "plastered_wall_04_nor_gl_2k.jpg",
+    "resolution": "2k",
+    "bytes": 1760685,
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/plastered_wall_04/plastered_wall_04_nor_gl_2k.jpg",
+    "source": "https://polyhaven.com/a/plastered_wall_04",
+    "license": "CC0",
+    "sha256": "904f6ca0b569754502675b8891b5d6aad1d8a07f938e8a43cf385170a21a12dc"
+  }
+]

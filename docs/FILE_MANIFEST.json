@@ -1,0 +1,170 @@
+{
+  "publication_date": "2026-11-16",
+  "repository": "https://github.com/nyam0s1/TimeCapsule_Graphics",
+  "blender_source_sha256": "05abeff689f13e4e8b8a92d5f36951fbcc5b84100211431030b2dff3e8b0e5f0",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 1579,
+      "sha256": "7b23792f3bfe5c76264282cfe16a0dbcdf75ce2d11456321d8e731d91897308e",
+      "storage": "git"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 177,
+      "sha256": "9f9dbfba19d0dda75c6ec1835b4f68f873f075486d498f3039f3e064c20154ba",
+      "storage": "git"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5470,
+      "sha256": "dcf6e9d5ab680e19e337d1b7c8a9b50c9b9190c7e7b884264474a1aae4313f0e",
+      "storage": "git"
+    },
+    {
+      "path": "TimeCapsule.blend",
+      "bytes": 88044879,
+      "sha256": "05abeff689f13e4e8b8a92d5f36951fbcc5b84100211431030b2dff3e8b0e5f0",
+      "storage": "git-lfs"
+    },
+    {
+      "path": "textures/photo_1995.png",
+      "bytes": 717067,
+      "sha256": "24db46cca55170c3fa814929a5d8e17bbb9f3831bab90d2d08410a65d060bf6c",
+      "storage": "git"
+    },
+    {
+      "path": "docs/CHECKPOINTS.md",
+      "bytes": 6157,
+      "sha256": "d7d250c0bdb2f6ca2ef988981135a6623fa9f41f46da0424210c1e330b5e5292",
+      "storage": "git"
+    },
+    {
+      "path": "docs/TECHNIQUES.md",
+      "bytes": 3502,
+      "sha256": "27ae8d51865aab132091318890e681f242d2660c7e780164b8109d6fbb03466f",
+      "storage": "git"
+    },
+    {
+      "path": "docs/PROJECT_STATUS.md",
+      "bytes": 2579,
+      "sha256": "91c8f0f4d94983f114d043ea2c4500824a6c8aaa203693697f0d7567cb062609",
+      "storage": "git"
+    },
+    {
+      "path": "docs/ASSETS.md",
+      "bytes": 1362,
+      "sha256": "8694794b2bf37c89698765addb13f225cbab465ca5781b0136ab44441fdf2602",
+      "storage": "git"
+    },
+    {
+      "path": "docs/assets_polyhaven.json",
+      "bytes": 4569,
+      "sha256": "107bbba96ce46025f4435140677da54a49f2f94e31f787d2c19fe64f0956f34c",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/no_human_check/continuous.py",
+      "bytes": 8179,
+      "sha256": "aa6ec46581be2337369723e6e12d47f35c3934934a8e61529aa813dc0b3ed239",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/no_human_check/old_shovel.py",
+      "bytes": 8923,
+      "sha256": "c1c677c96ffee7d07d70fb759ca2c94830b916b71d05158855df49a8184b7184",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/no_human_check/look_pass.py",
+      "bytes": 7189,
+      "sha256": "7169281af33cce61aa094787eb3cb4ac841a7d0646840863f811156b2384c75d",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/no_human_check/continuous_burial_and_reopening.mp4",
+      "bytes": 8185964,
+      "sha256": "4a84f14e1a3ca804dd04a3aa76a66ba76737e1ab1e77769ed38bd2af6f2a4919",
+      "storage": "git-lfs"
+    },
+    {
+      "path": "renders/stills/no_human_check/shovel_fill_and_dig.mp4",
+      "bytes": 1983371,
+      "sha256": "231b653563fb87abcea9bb365b8f1e3d8e5bde16fe5b4e70337d7b8a622870c8",
+      "storage": "git-lfs"
+    },
+    {
+      "path": "renders/stills/time_pass_check/time_pass.py",
+      "bytes": 30271,
+      "sha256": "7bd1d605c93b2e6bc469e60e275547eeec4eb29917cd4a9716f0c2f42363b927",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/time_pass_check/make_atlas.py",
+      "bytes": 979,
+      "sha256": "a1b2ec7a12bdbafe5596c58a4474132252ad20f79ab71fa14ba86ac843a2cc59",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/time_pass_check/tc13_year_atlas.png",
+      "bytes": 160792,
+      "sha256": "ac08e9fdf97ea0541a498ffaea20b095b58239d06208a4046b85751b5328bfc2",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/time_pass_check/solar_curve.json",
+      "bytes": 264602,
+      "sha256": "45ddfaaaddfce35350a5e0f65ac911eb93a3e41ad03bf4f058e16c245c529889",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/time_pass_check/day_night_shot12_realspeed.mp4",
+      "bytes": 1090845,
+      "sha256": "c9ffada0ebdf208408f0e6c5f7f9510200af5f4e6ae27f40d59f55ad37d459bd",
+      "storage": "git-lfs"
+    },
+    {
+      "path": "renders/stills/time_pass_check/3_day_night_one_cycle_2540_2700.jpg",
+      "bytes": 333682,
+      "sha256": "1b363d2cff4125692eeccbcef070f65dbaf389f7a4289e0ba32ec0cba01e70cc",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/time_pass_check/5_years_and_nights.jpg",
+      "bytes": 184775,
+      "sha256": "5ccc212ccdec80f952107ab999b4d184e4c09b51c0f903068463a2ed2b1f9b0f",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/time_pass_check/6_final_quality_from_saved_file.jpg",
+      "bytes": 371759,
+      "sha256": "9e869b088737e865844beac982b8718ee3aa48e2612d7f5b7ea9a8280c48e180",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/time_pass_check/7_light_waves_chart.png",
+      "bytes": 24199,
+      "sha256": "dd60f7c06d22030caeb28d19fa7ccda8a9bc9482fbb9f23cbe3cec833bf67b43",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/shovel_check/shovel_shape.py",
+      "bytes": 6284,
+      "sha256": "fb8f999ca03c0d7ef4e6a1745d0cc983f73dd3c0d41ad27d43592fcd0d6830a0",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/shovel_check/2_shovel_closeups_after.jpg",
+      "bytes": 371551,
+      "sha256": "62ac412b132f5b3138f998aba9aada3a61a4d9c5193ce85010ef1684660af55e",
+      "storage": "git"
+    },
+    {
+      "path": "renders/stills/shovel_check/3_shovel_in_film_frames.jpg",
+      "bytes": 221858,
+      "sha256": "53778f1afc41d33e6b852cdb8a307e59784b4c731f1962294b688ec9171265e5",
+      "storage": "git"
+    }
+  ],
+  "hash_scope": "Published Git content, with text normalized to LF; LFS rows describe actual binary objects. This manifest excludes itself."
+}
