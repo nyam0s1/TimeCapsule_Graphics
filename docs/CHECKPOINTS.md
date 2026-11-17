@@ -72,6 +72,9 @@ We have not written a separate OpenGL program or exposed a custom OpenGL API/ren
 - [Day/night preview](../renders/stills/time_pass_check/day_night_shot12_realspeed.mp4): sun/sky changes, time remapping and year labels.
 - [Continuous burial/reopening preview](../renders/stills/no_human_check/continuous_burial_and_reopening.mp4): camera movement, capsule translation and lid rotation. This is an earlier motion preview, not the latest complete visual state.
 - [Shovel work preview](../renders/stills/no_human_check/shovel_fill_and_dig.mp4): filling and digging movement, also from an earlier pass.
+- [Storm preview](../renders/stills/storm_branches_check/storm_5370_5440.mp4): lightning shown as a glow inside the clouds; the scene itself is no longer flash-lit (low-resolution preview).
+- [Background tree regrowth preview](../renders/stills/storm_branches_check/trees_regrow_3900_4500_x2.mp4): background trees lose limbs in the drought and regrow them in the wet years, driven by Geometry Nodes (twice speed, low resolution).
+- Weather/branch scripts: [weather_pass.py](../renders/stills/weather_check/weather_pass.py), [cloud_flow.py](../renders/stills/weather_check/cloud_flow.py), [storm_branches.py](../renders/stills/storm_branches_check/storm_branches.py).
 - **Blender interaction:** timeline playback/scrubbing and viewport/camera inspection allow the scene and animated changes to be demonstrated. No custom game controls are claimed.
 
 The latest saved version also includes vegetation growth/seasonal changes, object ageing, an old shovel's fall/breakage and a year counter. Not every latest feature has completed a full motion review.
